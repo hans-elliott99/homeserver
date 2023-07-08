@@ -1,0 +1,3 @@
+- start by installing apache2, mysql, php, docker
+- configure port forwarding on router (apache2 needs 80, ssh needs 22, docker will need others)
+- setup any other services
